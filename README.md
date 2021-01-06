@@ -1,4 +1,4 @@
-[![Inline docs](http://inch-ci.org/github/{NVcoder24}/{random-python-array-generator}.svg?branch=master)](http://inch-ci.org/github/{NVcoder24}/{random-python-array-generator})
+[![Inline docs](http://inch-ci.org/github/{NVcoder24}/{random-python-array-generator}.svg?branch=main)](http://inch-ci.org/github/{NVcoder24}/{random-python-array-generator})
 # random-python-array-generator
 generates random python arrays
 ## libraries
