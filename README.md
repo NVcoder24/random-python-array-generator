@@ -25,6 +25,6 @@ you can convert array you get to string too
 import rag_min # Random Array Generator MINimum
 
 some_array = rag_min.get_rand_array(10, 1, 10)
-my_string_array = rag_min.convert_array_to_string(some_random) # convert_array_to_string(array)
+my_string_array = rag_min.convert_array_to_string(some_array) # convert_array_to_string(array)
 print(f"my random array: {my_string_array}")
 ```
