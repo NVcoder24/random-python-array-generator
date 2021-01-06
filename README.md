@@ -11,5 +11,5 @@ pip install pyperclip
 ```python
 import rag_min # Random Array Generator MINimum
 
-print(get_rand_array(10, 1, 10)) # get_rand_array(amount of elements in array, minimum simbols in string, maximum symbols in string)
+print(f"some random array: " + get_rand_array(10, 1, 10)) # get_rand_array(amount of elements in array, minimum simbols in string, maximum symbols in string)
 ```
