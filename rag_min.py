@@ -35,5 +35,3 @@ def convert_array_to_string(array):
         ele = str(ele)
         inner = inner + element.format(content=ele)
     return base.format(content=inner)
-
-print(get_rand_array(10, 1, 10)) # get_rand_array(amount of elements in array, minimum simbols in string, maximum symbols in string)
