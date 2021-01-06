@@ -27,6 +27,7 @@ def get_rand_array(amount, minimum, maximum):
             break
     return array_
 
+
 def convert_array_to_string(array):
     base = "[{content}]"
     element = "\"{content}\","
