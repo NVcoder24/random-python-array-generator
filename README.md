@@ -26,5 +26,22 @@ import rag_min # Random Array Generator MINimum
 
 some_array = rag_min.get_rand_array(10, 1, 10)
 my_string_array = rag_min.convert_array_to_string(some_array) # convert_array_to_string(array)
+
 print(f"my random array: {my_string_array}")
+```
+```python
+import rag_min
+
+my_array = [1,2,3,4,5]
+my_string_array = rag_min.convert_array_to_string(my_array)
+
+print(f"my array: {my_string_array}")
+```
+idk but you can get symbols that uses in rag
+```python
+import rag_min # Random Array Generator MINimum
+
+my_simbols = rag_min.chars
+
+print(f"my symbols collection: {my_simbols}")
 ```
