@@ -6,8 +6,8 @@ generates random python arrays
 pip install random
 pip install pyperclip
 ```
-## using in other project
-###### rag_min.py must be in folder with your main python file!
+## using
+###### rag_min.py must be in folder with your main python script!
 ```python
 import rag_min # Random Array Generator MINimum
 
